@@ -2,6 +2,8 @@
 
 A modern, portable, single-page application to browse LeetCode problems by company frequency and tags.
 
+![LeetCode Tags Viewer Preview](./screenshot.jpg)
+
 ## 🚀 How to Use
 This project is designed for maximum portability. You do not need to install anything or set up a server.
 1.  **Download** the `leetcode.html` file from this repository.
