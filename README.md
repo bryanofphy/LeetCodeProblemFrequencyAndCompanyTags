@@ -23,7 +23,7 @@ This project is designed for maximum portability. You do not need to install any
 
 ## 🙏 Credits
 -   **Original Data Source:** [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
--   **Project Creator:** [bryanofphy](https://github.com/bryanofphy/LeetCodeProblemFrequencyAndCompanyTags)
+-   **Project Creator:** [bryanofphy](https://github.com/bryanofphy/leetcode-company-tags-frequency)
 
 ---
 *Disclaimer: This tool is for educational purposes to help with interview preparation.*
