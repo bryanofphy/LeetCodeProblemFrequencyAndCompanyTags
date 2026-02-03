@@ -21,21 +21,6 @@ This project is designed for maximum portability. You do not need to install any
 -   **Timeframe Selection:** Recalculates frequency and sorting dynamically.
 -   **Dark Mode:** Comfortable viewing for long study sessions.
 
-## 📈 Development
-If you want to update the data yourself:
-
-1.  **Generate Data JSON:**
-    ```bash
-    node scripts/generate_data.js
-    ```
-    This parses company CSVs and creates a unified `data.json`.
-
-2.  **Embed Data into HTML:**
-    ```bash
-    node scripts/embed_data.js
-    ```
-    This injects `data.json` into `index.template.html` to produce the final `leetcode.html`.
-
 ## 🙏 Credits
 -   **Original Data Source:** [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems)
 -   **Project Creator:** [bryanofphy](https://github.com/bryanofphy/LeetCodeProblemFrequencyAndCompanyTags)
